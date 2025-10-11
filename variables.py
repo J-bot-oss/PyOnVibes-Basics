@@ -18,4 +18,4 @@ print(number) # Output: 42
 
 print(pi) # Output: 3.14
 
-print(is_active) # Output: True
+print(is_active) # Output: True 
